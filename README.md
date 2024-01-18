@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ugyentenzin1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ugyentenzin1&icon=4&color=8)](https://visitcount.itsvg.in)
